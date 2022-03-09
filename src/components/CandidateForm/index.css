@@ -1,0 +1,14 @@
+
+.form{
+    flex:display;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: auto;
+    align-items: center;
+
+}
+.txt{
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+}
